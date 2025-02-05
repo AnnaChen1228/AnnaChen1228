@@ -38,4 +38,5 @@ I'm a passionate software engineer with a strong background in programming and p
     <a href="https://github.com/AnnaChen1228"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
     <a href="mailto:angelachen572@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/anna-chen-5a93a3300/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://blog-tawny-phi-20.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
