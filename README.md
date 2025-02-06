@@ -2,8 +2,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnnaChen1228&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 💼 About Me
-I'm a passionate software engineer with a strong background in programming and problem-solving. Currently pursuing my Master's in Computer Science at NCU, I love working on real-world projects and exploring new technologies. Let's connect and create something amazing together!
+<!-- ### 💼 About Me
+I'm a passionate software engineer with a strong background in programming and problem-solving. Currently pursuing my Master's in Computer Science at NCU, I love working on real-world projects and exploring new technologies. Let's connect and create something amazing together! -->
 
 ### 🏫 Education
 - **Master's in Computer Science** — National Central University (NCU)
@@ -24,13 +24,13 @@ I'm a passionate software engineer with a strong background in programming and p
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
-### 💻 IDE/Editors
+<!-- ### 💻 IDE/Editors
 
 <div style="text-align:center;">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> 
     <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
-</div>
+</div> -->
 
 ### 📞 Contact Me
 
