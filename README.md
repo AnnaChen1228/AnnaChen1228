@@ -9,6 +9,13 @@ I'm a passionate software engineer with a strong background in programming and p
 - **Master's in Computer Science** — National Central University (NCU)
 - **Bachelor's in Computer Science and Engineering** — Yuan Ze University (YZU)
 
+### 📰 Publications
+
+* 📄 [**Understanding Students Through Dialogue: A Dialogue Knowledge Tracing System for Learning Analytics**](https://proactllm.github.io/)
+  > **Second author** · *CIKM ProActLLM 2025*
+* 📄 [**DREAM: 結合領域知識檢索與多代理推理的結構化論文評估方法**](https://taai2025.org/page/12)
+  > **Third author** · *TAAI 2025*
+
 ### 🔨 Skill
 
 <div style="text-align:center;">
